@@ -1,4 +1,4 @@
-var penColour = 'black';
+var penColour = 'white';
 
 function setPixelColour(pixel)
 {
